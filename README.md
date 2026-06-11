@@ -29,7 +29,7 @@ https://github.com/YOUR-USER/research-assistant-skill
 如果你想手动安装，把仓库克隆到 Codex skills 目录：
 
 ```bash
-git clone https://github.com/YOUR-USER/research-assistant-skill.git ~/.codex/skills/research-assistant
+git clone https://github.com/RickT34/research-assistant-skill.git ~/.codex/skills/research-assistant
 ```
 
 然后在新会话中调用：
