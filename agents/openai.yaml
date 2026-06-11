@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研助理"
+  short_description: "根据研究新手手册提供科研推进建议、任务拆解与引用出处说明。"
+  default_prompt: "请根据手册与当前上下文，帮助我推进科研任务；若引用手册，请注明章节位置。"
