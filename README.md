@@ -1,6 +1,8 @@
 # Research Assistant Skill
 
-一个面向实验型计算机科研新手的 Codex skill，适合在研究任务卡住、边界不清、实验结果解释不动时使用。
+一个面向计算机科研新手的 Skill，适合在研究任务卡住、边界不清、实验结果解释不动时使用。
+
+基于[Research-Handbook](https://github.com/ICT-STAR/Research-Handbook)制作。
 
 ## 使用场景
 
@@ -15,7 +17,7 @@
 
 ## 安装方法
 
-最简单的方法：把这个 GitHub 仓库链接发给你的 Codex agent，让它帮你安装。
+最简单的方法：把这个 GitHub 仓库链接发给你的 Agent，让它帮你安装。
 
 可以这样说：
 
@@ -33,5 +35,5 @@ git clone https://github.com/YOUR-USER/research-assistant-skill.git ~/.codex/ski
 然后在新会话中调用：
 
 ```text
-[$research-assistant] 我现在复现论文结果对不上，帮我定位下一步。
+我现在复现论文结果对不上，帮我定位下一步。
 ```
