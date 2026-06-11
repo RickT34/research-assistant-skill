@@ -23,7 +23,7 @@
 
 ```text
 请从这个仓库安装 research-assistant skill：
-https://github.com/YOUR-USER/research-assistant-skill
+https://github.com/RickT34/research-assistant-skill
 ```
 
 如果你想手动安装，把仓库克隆到 Codex skills 目录：
